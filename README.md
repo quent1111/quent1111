@@ -8,7 +8,7 @@
 
 ## 🔧 Compétences techniques
 
-- Langages : C, C++
+- Langages : C, C++, HTML, CSS, Py, 
 - Outils : Git, Makefile, Devops
 - Systèmes : Linux
 

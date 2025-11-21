@@ -9,7 +9,7 @@
 ## 🔧 Compétences techniques
 
 - Langages : C, C++, HTML, CSS, Python, Typescript, React 
-- Outils : Git, Makefile, Devops
+- Outils : Git, Makefile, CMake, Docker
 - Systèmes : Linux
 
 ## 📫 Me contacter
